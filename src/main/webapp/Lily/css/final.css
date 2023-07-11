@@ -1,0 +1,47 @@
+.final{
+    position: relative;
+    overflow: hidden;
+    padding: 20px 0;
+    width: 100%;
+    background-color:#e8e5e5;
+    height: 600px;
+}
+.thumb{
+    width: 48%;
+    height: 350px;
+    object-fit: cover;
+}
+table{
+    position: relative;
+    left:11vw;
+    
+}
+input{
+    display: inline;
+    border: none;
+    width: 50%;
+}
+th{
+    text-align: left;
+    padding: 10px;
+    background-color: rgb(98, 3, 55);;
+    color: white;
+    font-size: large;
+}
+td{
+    padding: 10px 5px;
+    background-color: white;
+    font-size: large;
+    font-weight: bolder;
+    height: 80%;
+}
+#button{
+    display: inline;
+    height: 11vh;
+    width: 11vw;
+    position: relative;
+    top: 1vh;
+    left: 43vw;
+    background-color: rgb(98, 3, 55);
+    color: aliceblue;
+}
